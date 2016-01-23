@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A React Starter Project",
   "main": "server.js",
   "scripts": {
     "start": "node server"

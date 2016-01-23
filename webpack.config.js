@@ -25,35 +25,4 @@ module.exports = {
       loaders: ['react-hot', 'babel']
     }]
   }
-}
-
-// entry: './src/index',
-// output: {
-//   path: './static/dist',
-//   filename: "bundle.js"
-// },
-// plugins: [
-//   new webpack.optimize.UglifyJsPlugin({
-//     compress: {
-//       warnings: false
-//     }
-//   })
-// ],
-// module: {
-//   loaders: [{
-//     test: /\.jsx?$/,
-//     exclude: /(node_modules)/,
-//     loader: 'babel'
-//   }, {
-//     test: /\.scss$/,
-//     loaders: ['style', 'css', 'sass']
-//   }]
-// }
-
-// , {
-//   test: /\.scss$/,
-//   loader: 'style!css!sass'
-// }, {
-//   test: /\.json$/,
-//   loader: 'json'
-// }
+};
