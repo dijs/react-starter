@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-This will start a webpack dev server with HMR already setup.
+This will start a Webpack 2 Development Server with HMR already setup.
 
 All you have to do is start adding components.
 
